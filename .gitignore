@@ -37,3 +37,6 @@ coverage
 # ignore rubymine
 .idea
 .byebug_history
+
+# ignore secrets
+config/local_env.yml
